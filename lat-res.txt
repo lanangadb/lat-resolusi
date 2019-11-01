@@ -2,3 +2,5 @@ RES
 - konsisten
 - pengelolaan video
 - forum diskusi
+- kolabs
+- buat toko
